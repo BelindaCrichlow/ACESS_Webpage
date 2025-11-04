@@ -1,0 +1,35 @@
+#workshops{
+   background-color: #f4f4f0;
+   padding: 3rem 0;
+   min-height: 40vh;
+}
+
+.workshops{
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;   /* center items horizontally */
+    align-items: flex-start;   /* align card tops */
+    align-content: center;     /* center wrapped rows vertically inside the section */
+    gap: 3rem;
+    margin: 0 auto;  
+}
+.workshop .card{
+    display: box !important;
+    box-sizing: border-box;
+    flex: 0 0 18rem !important; 
+    text-align: center!important;
+    
+}
+.card-title, .cardbody .btn{
+    text-align: center !important;
+    
+}
+
+
+#blurb{
+    width:60% !important;
+    margin:auto;
+     text-align: center;
+     padding: 3rem;
+}
