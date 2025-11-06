@@ -33,16 +33,18 @@
  }
 
 #blurb{
-    width:60% !important;
+   /* width:60% !important;
     margin:auto;
-    text-align: center;
     padding: 3rem;
-    font-size: 1..1em;
+     font-size: 1.1em;*/
+    text-align: center;
+    
+   
     color: #311c03;
 }
 span{
     font-weight: bold;
-    font-size: 1.25em;
+    font-size: 1.1em;
 }
 
 
