@@ -35,10 +35,10 @@
 #blurb{
    /* width:60% !important;
     margin:auto;
-    padding: 3rem;
+  
      font-size: 1.1em;*/
     text-align: center;
-    
+      padding: 3rem 0;
    
     color: #311c03;
 }
