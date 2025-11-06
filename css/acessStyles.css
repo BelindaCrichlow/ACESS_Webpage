@@ -55,3 +55,12 @@ footer .card {
     text-align: center!important;
     
 }
+
+@media screen and (max-width: 768px) {
+    #blurb {
+        width: 90% !important;
+        margin: auto;
+        padding: 1.25rem;
+        font-size: 1em;
+    }
+}
