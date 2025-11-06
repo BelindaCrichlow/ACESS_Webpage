@@ -14,7 +14,7 @@
     gap: 3rem;
     margin: 0 auto;  
 }
-.workshop .card{
+.workshops .card{
     display: box !important;
     box-sizing: border-box;
     flex: 0 0 18rem !important; 
@@ -23,8 +23,11 @@
 }
 .card-title, .cardbody .btn{
     text-align: center !important;
+    align-items: center !important;
     
 }
+
+
  footer{
      min-height: 40vh;
  }
@@ -32,10 +35,15 @@
 #blurb{
     width:60% !important;
     margin:auto;
-     text-align: center;
-     padding: 3rem;
+    text-align: center;
+    padding: 3rem;
+    font-size: 1..1em;
+    color: #311c03;
 }
-
+span{
+    font-weight: bold;
+    font-size: 1.25em;
+}
 
 
 footer .card {
